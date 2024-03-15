@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: initial;  
+}
+ul{
+    list-style: none;
+}
+header{
+    background-color: #2C3139;
+    width: 1917px;
+    height: 137px;
+    margin-left: 3px;
+    border: 1px solid;
+}
+.logo{
+    width: 58px;
+    height: 63px;
+    margin-top: 40px;
+    margin-left: 243px;
+}
+.line{
+    width: 40px;
+    height: 28px;
+    margin-top: 58px;
+    margin-left: 143px;
+    border: 1.8px white;
+    color: #D9D9D9;
+}
+.loop{
+    width: 28.44px;
+    height: 32.85px;
+    margin-top: 58px;
+    margin-left: 701px;
+    color: white;
+    border: 1.5px white;
+}
+#search{
+    border: 1px white;
+    width: 560px;
+    height: 60px;
+    margin-top: 42px;
+    margin-left: 683px;
+    background-color:#2C3139 ;
+}
+.navicon{ 
+    background-color: #2C3139;
+    width: 40px;
+    height: 40px;
+    margin-top:50px;
+}
+.navicon_1{
+    margin-left: 1533px;
+}
+.navicon_2{
+    margin-left: 1599px;
+}
+.navicon_3{
+    margin-left: 1668px;
+}
+.navicon_4{
+    margin-left: 1737px;
+}
+.li{
+    margin-left: 1668px;
+}
+.cover{
+    width: 1923px;
+    height: 1080px;
+}
+.sec2div{
+    width: 220px;
+    height: 220px;
+}
+.sec2h3{
+    font-size: 50px;
+    margin-top: 50px;;
+}
+.sec2p{
+    font-size: 16px;
+}
+.sec2div2{
+    margin-left: 410px;
+}
+.sec2div4{
+    margin-left: 410px;
+}
+.sec2Divv{
+    padding-top: 40px;
+}
+.sec3{
+    margin-top: 100px;
+}
+.sec3p{
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.sec3div{
+    border: 2px double  black;
+    width: 600px;
+    height: 600px;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.sec3photo{
+    padding: 50px;
+    width: 468;
+    height: 424px;
+}
+.sec3pa{
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 60px;
+}
+.sec3but{
+    width: 240px;
+    height: 60px;
+    border: 3px solid black;
+    border-radius: 50px;
+    background-color: white;
+}
+.sec3form{
+    padding-left: 70px;
+}
